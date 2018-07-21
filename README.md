@@ -1,6 +1,6 @@
 # DemoCode创建步骤
-#### 1.创建BookingApi： *dotnet new -n BookingApi*   
-#### 2.创建PassengerApi： *dotnet new -n PassengerApi*   
+ 1.创建BookingApi： *dotnet new -n BookingApi*   
+ 2.创建PassengerApi： *dotnet new -n PassengerApi*   
 #### 3.创建ApiGateway： *dotnet new -n ApiGateway*    
 #### 4.添加BookingApi和PassengerApi的实现代码  
 #### 5.在ApiGateway项目中用Nuget安装Ocelot依赖包  
